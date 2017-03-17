@@ -1,5 +1,6 @@
 # Sample-UI
 This was a Sample UI project where I practiced HTML/CSS
+Refrences Pluralsight course -- "Introduction to Building Website Layouts" by Susan Simkins
 
 ## Home Page
 ![home page](https://cloud.githubusercontent.com/assets/16660134/24053890/cc8a2c00-0b10-11e7-800b-ae21d052e2e8.png)
